@@ -1,4 +1,4 @@
-# Terms
+# Glossary
 Glossary of terms for Coding 101
 
 ## Internet
