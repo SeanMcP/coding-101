@@ -14,6 +14,7 @@ Computer programs that access and render content from the Internet, *e.g.* Chrom
 Hyper Text Markup Language, a simple coding language that is used to make web pages
 
 ### DocType
+A tag at the very top of a webpage that tells the browser to load the page as `HTML`
 
 ### Element
 A portion of webpage made up of one or more tags, *e.g.* `head`, `p`, `img`
